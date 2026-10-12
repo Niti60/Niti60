@@ -7,7 +7,7 @@ I build scalable backend systems. I own skills in Python, data analysis, and mac
 
 🌐 **Portfolio:** [nitishyadav.com](https://nitishyadav.com)
 
-💼 **Currently:**Full stack developer & Ai engineer at Admeasy AI
+💼 **Currently:** Full stack developer & Ai engineer at Admeasy AI
 
 ---
 
